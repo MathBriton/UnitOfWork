@@ -1,17 +1,4 @@
 using Management.API.Services;
-using Management.Domain.Departments;
-using Management.Domain.Interfaces;
-using Management.Domain.Salaries;
-using Management.Domain.Users;
-using Management.Infrastructure;
-using Management.Infrastructure.Repositories;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Management.API.Extensions
 {

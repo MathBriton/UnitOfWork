@@ -1,8 +1,4 @@
-using Management.Domain.Base;
-using Management.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Linq;
 using System.Linq.Expressions;
 
 namespace Management.Infrastructure

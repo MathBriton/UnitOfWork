@@ -1,12 +1,3 @@
-using Management.Domain.Departments;
-using Management.Domain.Interfaces;
-using Management.Domain.Salaries;
-using Management.Domain.Users;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace Management.API.Services
 {
     public class DepartmentService

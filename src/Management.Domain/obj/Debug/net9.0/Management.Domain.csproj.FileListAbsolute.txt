@@ -1,0 +1,6 @@
+C:\Temp\UnitOfWork\src\Management.Domain\obj\Debug\net9.0\Management.Domain.csproj.AssemblyReference.cache
+C:\Temp\UnitOfWork\src\Management.Domain\obj\Debug\net9.0\Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\UnitOfWork\src\Management.Domain\obj\Debug\net9.0\Management.Domain.AssemblyInfoInputs.cache
+C:\Temp\UnitOfWork\src\Management.Domain\obj\Debug\net9.0\Management.Domain.AssemblyInfo.cs
+C:\Temp\UnitOfWork\src\Management.Domain\obj\Debug\net9.0\Management.Domain.csproj.CoreCompileInputs.cache
+C:\Temp\UnitOfWork\src\Management.Domain\obj\Debug\net9.0\Management.Domain.sourcelink.json

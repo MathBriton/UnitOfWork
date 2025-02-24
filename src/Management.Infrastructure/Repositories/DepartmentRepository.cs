@@ -1,9 +1,3 @@
-using Management.Domain.Departments;
-using Management.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace Management.Infrastructure.Repositories
 {
     public class DepartmentRepository : Repository<Department>, IDepartmentRepository
@@ -23,5 +17,24 @@ namespace Management.Infrastructure.Repositories
             else
                 throw new Exception("Department invalid");
         }
+    }
+
+    public class Department
+    {
+        private string departmentName;
+
+        public Department(string departmentName)
+        {
+            this.departmentName = departmentName;
+        }
+
+        internal bool ValidOnAdd()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    internal interface IDepartmentRepository
+    {
     }
 }
